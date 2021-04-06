@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="E:/amp" />
+        <option value="E:/" />
       </list>
     </option>
   </component>
